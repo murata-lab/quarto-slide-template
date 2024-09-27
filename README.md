@@ -1,10 +1,8 @@
 # Quarto を用いたプレゼンテーションテンプレート
 
-以下の URL のコードを参考にしています。
-https://github.com/quarto-dev/quarto-gallery/blob/main/presentations/powerpoint/powerpoint.qmd
+[こちらのサイトのコード](https://github.com/quarto-dev/quarto-gallery/blob/main/presentations/powerpoint/powerpoint.qmd)を参考にしています。
 
-こちらに他のテンプレートがあるので、そちらも参考にしてください。
-https://quarto.org/docs/gallery/
+[こちら](https://quarto.org/docs/gallery/)に他のテンプレートがあるので、そちらも参考にしてください。
 
 ## 使用方法
 
